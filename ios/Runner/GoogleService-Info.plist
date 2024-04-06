@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCCaZ8dGRqa4mAbWmxeCc_BY_OIVH0tmhk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>710027462041</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gameofthronesapp</string>
+	<key>PROJECT_ID</key>
+	<string>gameofthrones-d302c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gameofthrones-d302c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:710027462041:ios:6ef54b8a56e016a4c27f08</string>
+</dict>
+</plist>

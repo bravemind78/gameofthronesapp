@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710027462041",
+    "project_id": "gameofthrones-d302c",
+    "storage_bucket": "gameofthrones-d302c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710027462041:android:a74b5592cbb4a5d7c27f08",
+        "android_client_info": {
+          "package_name": "com.example.gameofthronesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOucoP41xrqw21Hv9tTVkXZgJ_8p-fM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
